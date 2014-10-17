@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rka:home|Door43 (rka)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rka|d43-rka repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rka/archive/master.zip|d43-rka.zip]]
+
+**Recent Changes**
+{{changes>ns = rka}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rka|Ethnologue data]]
+
